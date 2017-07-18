@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="2">
+
+  <testsuite name="monsterTest"
+    errors="1" failures="0" hostname="" id="" package="test" skipped="0"
+    tests="2" time="8098" timestamp="Mon, 10 Jul 2017 22:27:15 GMT">
+  
+    <testcase name="demo test for monster" time="860.9" assertions="44">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+      <system-err>
+        Error while running windowSize command: First argument must be a window handle string.
+    at Object.browser.windowHandle.result (F:\presentation\pages\monsterPage.js:348:42)
+    at HttpRequest.&lt;anonymous&gt; (C:\Users\daxes\AppData\Roaming\npm\node_modules\nightwatch\lib\index.js:358:18)
+    at emitTwo (events.js:106:13)
+    at HttpRequest.emit (events.js:191:7)
+    at HttpRequest.&lt;anonymous&gt; (C:\Users\daxes\AppData\Roaming\npm\node_modules\nightwatch\lib\index.js:385:15)
+    at emitTwo (events.js:106:13)
+    at HttpRequest.emit (events.js:191:7)
+    at ClientRequest.&lt;anonymous&gt; (C:\Users\daxes\AppData\Roaming\npm\node_modules\nightwatch\lib\http\request.js:165:12)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+      </system-err>
+  
+    <testcase name="demo test for monster applying now " time="7238" assertions="98">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+      <system-err>
+        Error while running windowSize command: First argument must be a window handle string.
+    at Object.browser.windowHandle.result (F:\presentation\pages\monsterPage.js:348:42)
+    at HttpRequest.&lt;anonymous&gt; (C:\Users\daxes\AppData\Roaming\npm\node_modules\nightwatch\lib\index.js:358:18)
+    at emitTwo (events.js:106:13)
+    at HttpRequest.emit (events.js:191:7)
+    at HttpRequest.&lt;anonymous&gt; (C:\Users\daxes\AppData\Roaming\npm\node_modules\nightwatch\lib\index.js:385:15)
+    at emitTwo (events.js:106:13)
+    at HttpRequest.emit (events.js:191:7)
+    at ClientRequest.&lt;anonymous&gt; (C:\Users\daxes\AppData\Roaming\npm\node_modules\nightwatch\lib\http\request.js:165:12)
+    at emitOne (events.js:96:13)
+    at ClientRequest.emit (events.js:188:7)
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>
