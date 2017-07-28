@@ -13,6 +13,8 @@ KEY FEATURES
 - ITS OPEN SOURCE 
 - To view scrap data and jobs visit : http://scrap-jobs-posting.herokuapp.com/jobs
 
+- FOR MORE INFO ON HOW TO USE IT (npm start and open localhost:8081)
+
 
           for Developer info visit: http://scraper-crypto-coin.herokuapp.com/ and write review or comment on how to improve it.
          <<<<<<<===========------------------------     THANKS !!  ----------------===========================>>>>>>>>>>>>>>>>>>
