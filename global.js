@@ -21,11 +21,11 @@ var globalDetails = {
     this.searchJobLocation = jobLocation
   },
   
-  linkedinEmail:"daxshmehra10@gmail.com",
+  linkedinEmail:"linkedin @gmail.com",
   setLinkedinEmail:(linkedinEmail)=>{
     this.linkedinEmail = linkedinEmail
   },
-  linkedinPass:"thankyouUniverse",
+  linkedinPass:"password for linkedin ",
   setLinkedinPass:(linkedinPass)=>{
     this.linkedinPass = linkedinPass
   },
@@ -35,9 +35,9 @@ var globalDetails = {
   indeedSearchJobTitle:"full stack Developer",
   indeedSearchJobLocation:"",
   indeedNoPages:'3',
-
-  monsterEmail:"daxshmehra10@gmail.com",
-  monsterPassword:"thankyouUniverse$10",
+ 
+  monsterEmail:"mosnter @email",
+  monsterPassword:"password for mosnter",
   monsterSearchJobTitle:"Full Stack Developer",
   monsterSearchJobLocation:"los angeles",
   monsterNoPages:'30',
