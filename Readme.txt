@@ -16,8 +16,8 @@ KEY FEATURES
 - FOR MORE INFO ON HOW TO USE IT (npm start and open localhost:8081)
 
 
-          for Developer info visit: http://scraper-crypto-coin.herokuapp.com/ and write review or comment on how to improve it.
-         <<<<<<<===========------------------------     THANKS !!  ----------------===========================>>>>>>>>>>>>>>>>>>
+          
+         <<<<<<<===========  for Developer info visit: http://scraper-crypto-coin.herokuapp.com/ and write review or comment on how to improve it.   THANKS !!  =========>>>>>>>>>>>
               
               
 ---------------------- FOR RUNNING SCAPER TOOLS ---------------------------------
